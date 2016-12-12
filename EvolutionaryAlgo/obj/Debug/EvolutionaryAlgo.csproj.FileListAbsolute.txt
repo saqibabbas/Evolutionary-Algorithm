@@ -1,0 +1,36 @@
+E:\EvolutionaryAlgo\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe.config
+E:\EvolutionaryAlgo\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe
+E:\EvolutionaryAlgo\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.pdb
+E:\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csprojResolveAssemblyReference.cache
+E:\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Form1.resources
+E:\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Properties.Resources.resources
+E:\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csproj.GenerateResource.Cache
+E:\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.exe
+E:\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.pdb
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe.config
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.exe
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.pdb
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.pdb
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csprojResolveAssemblyReference.cache
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Form1.resources
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Properties.Resources.resources
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgo\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csproj.GenerateResource.Cache
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe.config
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.exe
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.pdb
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.pdb
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csprojResolveAssemblyReference.cache
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Form1.resources
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Properties.Resources.resources
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csproj.GenerateResource.Cache
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe.config
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.exe
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.pdb
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.exe
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\bin\Debug\EvolutionaryAlgo.pdb
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csprojResolveAssemblyReference.cache
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Form1.resources
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.Properties.Resources.resources
+E:\saqib\1UNIVERSITY\BS-computer science\4th year\1st semester\computaional intelligence\EvolutionaryAlgomy\EvolutionaryAlgo\obj\Debug\EvolutionaryAlgo.csproj.GenerateResource.Cache
